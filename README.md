@@ -16,4 +16,4 @@
  <img align="center" alt="hmtl5" src= https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white /> 
 </div><br/>
 
- estou no 3º período da Faculdade de Engenharia de Software e adoro programar. Gosto de testar ao máximo minhas habilidades em programação, sempre buscando novos desafios!
+ estou no 4º período da Faculdade de Engenharia de Software e adoro programar. Gosto de testar ao máximo minhas habilidades em programação, sempre buscando novos desafios!
