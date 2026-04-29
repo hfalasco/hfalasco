@@ -1,19 +1,40 @@
-### Olá eu sou o Henrique 👋
+### Olá eu sou o Henrique
 
-#### Sou estudante de Engenharia de Software da Universidade de Ribeirão Preto
-
+#### Sou estudante de Engenharia de Software (UNAERP)
 
 #### formas de contato:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](henriquesouzafalasco@gmail.com)
+<p align="left">
+<a href="henriquesouzafalasco@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+
+<a href="https://www.linkedin.com/in/henrique-falasco-de-souza" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>    
+</p>
 
 ### Tecnologias que eu uso no meu dia a dia
 
-<div style = "display: inline_block"><br/>
- <img align="center" alt="hmtl5" src= https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white  />
- <img align="center" alt="hmtl5" src= https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
- <img align="center" alt="hmtl5" src= https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white />
- <img align="center" alt="hmtl5" src= https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white /> 
-</div><br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,java" />
+</p>
 
- estou no 4º período da Faculdade de Engenharia de Software e adoro programar. Gosto de testar ao máximo minhas habilidades em programação, sempre buscando novos desafios!
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## 🔥 Streak de commits (sequência de dias)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=tokyonight" />
+</div>
+
+## 💡 Sobre mim
+
+ estou no 5 periodo da Faculdade de Engenharia de Software e adoro programar. Gosto de testar ao maximo minhas habilidades em programacao, sempre buscando novos desafios!
