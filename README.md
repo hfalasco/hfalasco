@@ -22,18 +22,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-## 🔥 Streak de commits (sequência de dias)
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=tokyonight" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfalasco)](https://github.com/hfalasco/github-readme-stats)
 
 ## 💡 Sobre mim
 
