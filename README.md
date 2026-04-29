@@ -22,7 +22,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfalasco)](https://github.com/hfalasco/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfalasco&theme=dracula&show-icons=true)](https://github.com/hfalasco/github-readme-stats)
 
 ## 💡 Sobre mim
 
