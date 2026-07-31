@@ -1,11 +1,11 @@
-### Olá eu sou o Henrique
+### Olá, eu sou o Henrique 👋
 
-#### Sou estudante de Engenharia de Software (UNAERP)
+#### Analista de Dados e DevOps
 
-#### formas de contato:
+#### Formas de contato:
 
 <p align="left">
-<a href="henriquesouzafalasco@gmail.com">
+<a href="mailto:henriquesouzafalasco@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 
@@ -14,10 +14,16 @@
     </a>    
 </p>
 
-### Tecnologias que eu uso no meu dia a dia
+### Tecnologias que utilizo atualmente
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,java" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,c,cpp" />
+</p>
+
+### Tecnologias que já utilizei
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cs" />
 </p>
 
 ## 📊 Estatísticas do GitHub
@@ -26,4 +32,4 @@
 
 ## 💡 Sobre mim
 
- estou no 5 periodo da Faculdade de Engenharia de Software e adoro programar. Gosto de testar ao maximo minhas habilidades em programacao, sempre buscando novos desafios!
+Atuo como Analista de Dados e DevOps e estou no 5º período da Faculdade de Engenharia de Software (UNAERP). Sou apaixonado por tecnologia e programação, sempre buscando aprimorar minhas habilidades e enfrentar novos desafios.
