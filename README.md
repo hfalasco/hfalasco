@@ -1,6 +1,10 @@
-### Olá, eu sou o Henrique 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Henrique%20Falasco&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-#### Analista de Dados e DevOps
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=480&lines=Ol%C3%A1%2C+eu+sou+o+Henrique+%F0%9F%91%8B;Analista+de+Dados+e+DevOps;Estudante+de+Engenharia+de+Software" />
+</p>
 
 #### Formas de contato:
 
@@ -28,8 +32,14 @@
 
 ## 📊 Estatísticas do GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfalasco&theme=dracula&show-icons=true)](https://github.com/hfalasco/github-readme-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hfalasco&theme=dracula&hide_border=true" />
+</p>
 
 ## 💡 Sobre mim
 
 Atuo como Analista de Dados e DevOps e estou no 5º período da Faculdade de Engenharia de Software (UNAERP). Sou apaixonado por tecnologia e programação, sempre buscando aprimorar minhas habilidades e enfrentar novos desafios.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>
