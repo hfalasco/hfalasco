@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=480&lines=Ol%C3%A1%2C+eu+sou+o+Henrique+%F0%9F%91%8B;Analista+de+Dados+e+DevOps;Estudante+de+Engenharia+de+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=480&lines=Ol%C3%A1%2C+eu+sou+o+Henrique+%F0%9F%91%8B;Analista+de+Dados;Estudante+de+Engenharia+de+Software" />
 </p>
 
 #### Formas de contato:
